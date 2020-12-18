@@ -1,0 +1,56 @@
+@charset "UTF-8";
+body#bodi {
+	background-color: white;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+head#red {
+	background-color: blue;
+}
+img#logo {
+	width: 330px;
+	height: 333px;
+	margin-left: 30px;
+}
+p#text:hover{
+	background-color: #013369;
+}
+table#NFW {
+	margin-left: 200px;
+	margin-bottom: -100px;
+	margin-top: -120px;
+}
+table#NFE {
+	margin-left: 50px;
+	color: #191970;
+}
+table#NFN {
+	margin-left: 350px;
+	margin-top: -135px;
+}
+table#GoSaints {
+	margin-left: 500px;
+	margin-top: -136px;
+}
+table#AFE {
+	margin-left: 670px;
+	margin-top: -136px;
+}
+table#AFO {
+	margin-left: 830px;
+	margin-top: -136px;
+}
+table#AFN {
+	margin-left: 1000px;
+	margin-top: -135px;
+}
+table#AFS {
+	margin-left: 1170px;
+	margin-top: -136px;
+}
+img#map {
+	width: 1000px;
+}
+img#hatemap {
+	width: 700px;
+}
